@@ -313,6 +313,9 @@ function stringWordCounter(strng) {
 }
 console.log(stringWordCounter(str));
 
+// ! simple one liner
+// str.toLowerCase().split("hello").length - 1;
+
 // ! 21*****************************************************************************************************************
 // ! Find the count of
 
